@@ -40,6 +40,7 @@ Perfil del turista
 peruroute-ai/
 ├── README.md
 ├── requirements.txt
+├── peruroute.ipynb
 ├── dataset/
 │   └── dataset_turismo_peru.csv
 ├── logos/
@@ -48,8 +49,7 @@ peruroute-ai/
 ├── src/
 │   ├── generate_dataset.py
 │   └── generate_logos.py
-└── notebooks/
-    └── PeruRoute_AI_Notebook.ipynb
+
 ```
 
 ---
