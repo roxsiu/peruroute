@@ -80,7 +80,7 @@ En Kaggle: **Add-ons → Secrets → Agregar `HF_TOKEN`**
 
 ### Paso 4 — Ejecutar el notebook
 
-Abre `notebooks/PeruRoute_AI_Notebook.ipynb` en Kaggle y ejecuta las celdas secuencialmente.
+Abre `peruroute.ipynb` en Kaggle y ejecuta las celdas secuencialmente.
 
 ### Tiempo estimado en GPU T4
 
